@@ -28,3 +28,14 @@ The system follows a pipeline:
 ## Notes
 - Only the provided corpus is used (no external knowledge)
 - High-risk issues are escalated to human support
+
+
+
+## Context
+This project was built as part of the HackerRank Orchestrate Hackathon (2026).
+
+The goal was to design a multi-domain support triage agent capable of:
+- Classifying support tickets
+- Retrieving relevant documentation
+- Generating safe, grounded responses
+- Escalating high-risk issues
